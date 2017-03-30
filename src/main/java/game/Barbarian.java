@@ -13,7 +13,7 @@ public class Barbarian extends Character {
 	*/
 	public Barbarian(WeaponBehaviour w) {
 		super(w);
-		logger.info("soy el A y estoy escribiendo.");
+		logger.info("soy el A y estoy escribiendo.pepe");
 
 	}
 	
